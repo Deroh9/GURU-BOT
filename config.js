@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '༒ᴘʀ†ɴᴄᴇss ᴀʏʀᴀ༒'
+global.botname = 'ᴘʀ†ɴᴄᴇss ᴀʏʀᴀ'
 global.premium = 'true'
-global.packname = 'ʟɪʟ ᴘᴜғғʏ𓅂' 
-global.author = '✘ʏᴏᴜʀ ᴅᴀᴅ✘' 
+global.packname = 'ʟɪʟ ᴘᴜғғʏ' 
+global.author = 'ʏᴏᴜʀ ᴅᴀᴅ' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
